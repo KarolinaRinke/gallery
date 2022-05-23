@@ -47,6 +47,13 @@ h1 {
     left: 3%;
     width: 5%;
 }
+#downladBTN {
+    position: fixed;
+    top: 3%;
+    right: 3%;
+    width: 5%;
+    left: auto;
+}
 
 .img
 {
@@ -61,6 +68,8 @@ img
 {
     width: 100%;
 }
+
+
 
 @media screen and (max-width: 800px) {
     * {
