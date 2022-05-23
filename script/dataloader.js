@@ -1,5 +1,18 @@
 imgData =[
     {
+        "name": "flowers",
+        "imgs": [
+            "Kirsche.JPG",
+            "Wiese-2.JPG",
+            "Wiese-3.JPG",
+            "Wiese-4.JPG",
+            "Wiese-5.JPG",
+            "Wiese-6.JPG",
+            "Wiese.JPG",
+            "Wieseraw.JPG"
+        ]
+    },
+    {
         "name": "sky",
         "imgs": [
             "Himmel_1080-1.JPG",
