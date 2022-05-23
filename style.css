@@ -1,0 +1,79 @@
+:root {
+    font-size: 2vw;
+}
+
+* {
+   top: 0;
+   left: 0;
+   padding: 0;
+   margin: 0; 
+}
+
+body {
+    background-color: #393E41;
+    color: #D3D0CB;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: center;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+h1 {
+    color: #E2C044;
+}
+
+#FolderConntainer {
+    display: grid;
+}
+
+.folder {
+    display: inline-grid;
+    margin-bottom: 2vh;
+    font-size: 1.4rem;
+    background-color: #1E2019;
+    width: 40%;
+    margin-left: 30%;
+    padding: 1%;
+}
+.folder img {
+    width: 10%;
+}
+
+#backArrow {
+    position: fixed;
+    top: 3%;
+    left: 3%;
+    width: 5%;
+}
+
+.img
+{
+    display: inline-grid;
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+    background-color: #1E2019;
+}
+
+img
+{
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    * {
+        font-size: 5vh;
+    }
+    .folder {
+        width: 80%;
+        margin-left: 10%;
+        font-size: 4rem;
+    }
+    #backArrow {
+        top: 2%;
+        left: 2%;
+        width: 15%;
+    }
+  }
