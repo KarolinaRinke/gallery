@@ -33,7 +33,7 @@ function loadDataIntoGallery(folder)
 
 function loadFoldersIntoGallery()
 {
-    header.innerHTML = "Gallerieauswahl";
+    header.innerHTML = "Galerieauswahl";
     FolderConntainer.innerHTML = "";
     backArrow.style.display = "none";
     downladBTN.style.display = "none";
