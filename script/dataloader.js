@@ -44,10 +44,6 @@ imgData =[
             "Schr\u00f6der_1080-7180.jpg",
             "Schr\u00f6der_1080-7181.jpg",
             "Schr\u00f6der_1080-7182.jpg",
-            "Schr\u00f6der_1080-7183.jpg",
-            "Schr\u00f6der_1080-7188.jpg",
-            "Schr\u00f6der_1080-7189.jpg",
-            "Schr\u00f6der_1080-7190.jpg",
             "Thumbs.db"
         ]
     }
